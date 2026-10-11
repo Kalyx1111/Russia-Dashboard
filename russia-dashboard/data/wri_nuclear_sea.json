@@ -1,0 +1,152 @@
+[
+ {
+  "id": "wri_wri1019028",
+  "name": "Armenian-2 (nuclear power plant, WRI)",
+  "lat": 40.1805,
+  "lon": 44.1498,
+  "cat": "nuclear_site",
+  "country_iso3": "ARM",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 375.0 MW, commissioning year 1980.0. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1023915",
+  "name": "Balakovo NPP (nuclear power plant, WRI)",
+  "lat": 52.0928,
+  "lon": 47.9539,
+  "cat": "nuclear_site",
+  "country_iso3": "RUS",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 4000.0 MW, commissioning year n/a. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1003666",
+  "name": "Beloyarsk (nuclear power plant, WRI)",
+  "lat": 56.8417,
+  "lon": 61.3225,
+  "cat": "nuclear_site",
+  "country_iso3": "RUS",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 1480.0 MW, commissioning year 1964.0. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1003671",
+  "name": "Bilibino (nuclear power plant, WRI)",
+  "lat": 68.0503,
+  "lon": 166.5389,
+  "cat": "nuclear_site",
+  "country_iso3": "RUS",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 48.0 MW, commissioning year n/a. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1003717",
+  "name": "Kalinn NPP (nuclear power plant, WRI)",
+  "lat": 57.905,
+  "lon": 35.0614,
+  "cat": "nuclear_site",
+  "country_iso3": "RUS",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 4000.0 MW, commissioning year n/a. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1003733",
+  "name": "Kola NPP (nuclear power plant, WRI)",
+  "lat": 67.4667,
+  "lon": 32.4667,
+  "cat": "nuclear_site",
+  "country_iso3": "RUS",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 1760.0 MW, commissioning year n/a. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1003744",
+  "name": "Kursk (nuclear power plant, WRI)",
+  "lat": 51.675,
+  "lon": 35.6056,
+  "cat": "nuclear_site",
+  "country_iso3": "RUS",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 4000.0 MW, commissioning year n/a. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1003749",
+  "name": "Leningrad NPP (nuclear power plant, WRI)",
+  "lat": 59.8528,
+  "lon": 29.0486,
+  "cat": "nuclear_site",
+  "country_iso3": "RUS",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 4000.0 MW, commissioning year n/a. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1003775",
+  "name": "Novovoronezh (nuclear power plant, WRI)",
+  "lat": 51.2822,
+  "lon": 39.21,
+  "cat": "nuclear_site",
+  "country_iso3": "RUS",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 1880.0 MW, commissioning year n/a. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1003791",
+  "name": "Rostov NPP (nuclear power plant, WRI)",
+  "lat": 47.5993,
+  "lon": 42.3717,
+  "cat": "nuclear_site",
+  "country_iso3": "RUS",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 4000.0 MW, commissioning year 2001.0. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1003812",
+  "name": "Smolensk (nuclear power plant, WRI)",
+  "lat": 54.1647,
+  "lon": 33.2367,
+  "cat": "nuclear_site",
+  "country_iso3": "RUS",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 3000.0 MW, commissioning year n/a. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1005111",
+  "name": "Khmelnytska (nuclear power plant, WRI)",
+  "lat": 50.3024,
+  "lon": 26.6473,
+  "cat": "nuclear_site",
+  "country_iso3": "UKR",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 2000.0 MW, commissioning year n/a. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1005112",
+  "name": "Rivne (Rouno) (nuclear power plant, WRI)",
+  "lat": 51.3245,
+  "lon": 25.8974,
+  "cat": "nuclear_site",
+  "country_iso3": "UKR",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 2835.0 MW, commissioning year n/a. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1005113",
+  "name": "South Ukraine (nuclear power plant, WRI)",
+  "lat": 47.812,
+  "lon": 31.22,
+  "cat": "nuclear_site",
+  "country_iso3": "UKR",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 3000.0 MW, commissioning year n/a. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ },
+ {
+  "id": "wri_wri1005114",
+  "name": "Zaporozhye (nuclear power plant, WRI)",
+  "lat": 47.5119,
+  "lon": 34.5863,
+  "cat": "nuclear_site",
+  "country_iso3": "UKR",
+  "note": "Listed as a nuclear plant in the WRI Global Power Plant Database: 6000.0 MW, commissioning year n/a. Operating status in 2026 is not re-verified in this build.",
+  "source": "WRI Global Power Plant Database (CC-BY 4.0)"
+ }
+]
